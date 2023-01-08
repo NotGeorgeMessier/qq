@@ -1,0 +1,33 @@
+{
+  "name": "qq-loger",
+  "version": "1.1.0",
+  "description": "qq log",
+  "main": "lib/index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotGeorgeMessier/qq.git"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "keywords": [
+    "log",
+    "qq",
+    "warn",
+    "error",
+    "info"
+  ],
+  "author": "GMessier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotGeorgeMessier/qq/issues"
+  },
+  "homepage": "https://github.com/NotGeorgeMessier/qq#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
