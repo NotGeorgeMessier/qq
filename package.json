@@ -12,7 +12,8 @@
     "url": "git+https://github.com/NotGeorgeMessier/qq.git"
   },
   "files": [
-    "lib/**/*"
+    "lib/**/*",
+    "types/**/*"
   ],
   "keywords": [
     "log",
